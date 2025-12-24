@@ -108,7 +108,7 @@ const InstagramShowcase: React.FC = () => {
                   className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
                   loading="lazy"
               
-                  }}
+              
                 />
                 
                 {/* Authentic Instagram Hover Overlay */}
